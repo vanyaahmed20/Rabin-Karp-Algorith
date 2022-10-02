@@ -15,4 +15,4 @@ Robin Karp Algorithm using python (language)
 
 # CONCLUSION
 In conclusion Rabin karp algorithm is used to find any pattern in the given sentence. 
-This is done by using the hash value which is the efficient way of finding any pattern in the given string
+This is done by using the hash value which is the efficient way of finding any pattern in the given string.
